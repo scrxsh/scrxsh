@@ -37,7 +37,8 @@
 ### 🚀 Proyecto Destacado
 
 <a href="https://github.com/scrxsh/sales-manager-ml">
-  <img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Sales Manager ML" />
+  <img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Sales Manager ML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" align="right"/>
 </a>
 
 **[Sales Manager ML](https://github.com/scrxsh/sales-manager-ml)**  
