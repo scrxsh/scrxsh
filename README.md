@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola, soy <a href="https://github.com/scrxsh">Willardo Zamora, A.K.A Scrxsh</a> 👋</h1>
 <p align="center">
-  <i>Tecnólogo en Sistemas de Información | Apasionado por la Ciencia de Datos, Python, Java y el Desarrollo Web</i>
+  <i>Tecnólogo en Sistemas de Información | Python, Java y el Desarrollo Web</i>
 </p>
 
 <div align="center">
