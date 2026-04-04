@@ -1,4 +1,4 @@
-Hola, soy [Will](https://github.com/scrxsh) y actualmente soy *Técnologo en Sistemas de Información* de la Fundación Universitaria de San Gil, sede Chiquinquira, Boyacá. Estoy cursando la carrera de Ing. de Sistemas y soy muy apasionado por la tecnologia. 
+Hola, soy **Will** y actualmente soy *Técnologo en Sistemas de Información* de la Fundación Universitaria de San Gil, sede Chiquinquira, Boyacá. Estoy cursando la carrera de Ing. de Sistemas y soy muy apasionado por la tecnologia. 
 
 ### Herramientas que estoy aprendiendo
 
