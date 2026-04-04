@@ -2,21 +2,12 @@
 
 <h1 align="center">Hola, soy <a href="https://github.com/scrxsh">Willardo Zamora, A.K.A Scrxsh</a> 👋</h1>
 <p align="center">
-  <i>Tecnólogo en Sistemas de Información | Python, Java y el Desarrollo Web</i>
+  <i>Tecnólogo en Sistemas de Información</i>
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,100:101318&height=120&section=header&text=Bienvenido%20a%20mi%20perfil&fontColor=fcfcfc&fontSize=36&fontAlign=50" alt="banner" />
 </div>
-
----
-
-### 🧑‍💻 Sobre mí
-
-- 📚 Actualmente aprendiendo **Python**, **Ciencia de Datos** y **Angular**
-- ☕ Experiencia previa con **Java** y **Spring Boot**
-- 💡 Apasionado por la informática, los datos curiosos y el aprendizaje continuo
-- ⚡ Fanático del fútbol y las series
 
 ---
 
@@ -44,33 +35,6 @@
 **[Sales Manager ML](https://github.com/scrxsh/sales-manager-ml)**  
 Un sistema de gestión de ventas con enfoque en Machine Learning. Estoy desarrollando este proyecto como parte de mi aventura en Ciencia de Datos y Python. ¡Visita el repositorio para más detalles!
 
----
-
-### 📝 Frase Favorita
-
-> “Sabes cuál es el problema? Imaginarte el algoritmo y no programarlo.”  
-> <div align="right">- Paul Hanca</div>
-
----
-
-### 📫 Conecta conmigo
-
-<p>
-  <a href="https://www.linkedin.com/in/willardozamora/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/></a>
-</p>
-
----
-
-<details>
-<summary>⚽ Más sobre mí (Click para expandir)</summary>
-
-- 💻 Me encanta explorar nuevas tecnologías y compartir conocimientos
-- 📊 Entusiasta de los datos curiosos y el análisis de información
-- 🎯 Siempre en busca de nuevos retos y colaboraciones
-
-</details>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,100:101318&height=100&section=footer" alt="footer" />
