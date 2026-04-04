@@ -1,30 +1,19 @@
-<!-- Perfil README para scrxsh -->
+Hola, soy [Will](https://github.com/scrxsh) y actualmente soy *Técnologo en Sistemas de Información* de la Fundación Universitaria de San Gil, sede Chiquinquira, Boyacá. Estoy cursando la carrera de Ing. de Sistemas y soy muy apasionado por la tecnologia. 
 
-<h1 align="center">Hola, soy <a href="https://github.com/scrxsh">Will</a></h1>
-<p align="center">
-  <i>Tecnólogo en Sistemas de Información</i>
-</p>
+### Herramientas que estoy aprendiendo
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 💻 Tecnologías y Herramientas
+### Proyecto Destacado
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/scrxsh/tazy)
 
-
-### 🚀 Proyecto Destacado
-<a href="https://github.com/scrxsh/tazy">
-  <img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Sales Manager ML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" align="right"/>
-</a>
-**[Tazy-Sales Manager](https://github.com/scrxsh/tazy)**  
-Un sistema de gestión de ventas con enfoque en Machine Learning. Estoy desarrollando este proyecto como parte de mi aventura en la fundacion Universitaria de San Gil, sede Chiquinquirá junto a mi compañero [Miguel Sierra](https://github.com/pana-miguel))
-
-
+**[Tazy-Sales Manager](https://github.com/scrxsh/tazy)** es un sistema de gestión de ventas con enfoque en Machine Learning que estamos desarrollando este proyecto como parte de mi aventura en la Fundación Universitaria de San Gil, sede Chiquinquirá, junto a mi compañero [Miguel Angel Sierra Cruz](https://github.com/pana-miguel).
