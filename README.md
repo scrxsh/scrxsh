@@ -5,7 +5,6 @@
   <i>Tecnólogo en Sistemas de Información</i>
 </p>
 
----
 
 ### 💻 Tecnologías y Herramientas
 
@@ -19,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>
 
----
 
 ### 🚀 Proyecto Destacado
 <a href="https://github.com/scrxsh/tazy">
