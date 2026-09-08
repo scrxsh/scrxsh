@@ -9,8 +9,8 @@ Hola, soy **Will** y actualmente soy *Técnologo en Sistemas de Información* de
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-d70a53?style=plastic&logo=debian&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-0A8?style=plastic&logo=cachyos&logoColor=white)
+
 
 ### Proyectos destacados
 #### Tazy
