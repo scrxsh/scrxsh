@@ -18,12 +18,14 @@ Hola, soy **Will** y actualmente soy *Técnologo en Sistemas de Información* de
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/scrxsh/tazy)
 
-**[Tazy-Sales Manager](https://github.com/scrxsh/tazy)** es un sistema de gestión de ventas con enfoque en Machine Learning que estamos desarrollando este proyecto como parte de mi aventura en la Fundación Universitaria de San Gil, sede Chiquinquirá, junto a mi compañero [Miguel Angel Sierra Cruz](https://github.com/pana-miguel).
+**[Tazy-Sales Manager](https://github.com/scrxsh/tazy)** fue un sistema de gestión de ventas con enfoque en Machine Learning que se desarró como parte de nuestra aventura en la Fundación Universitaria de San Gil, sede Chiquinquirá, junto a mi compañero [Miguel Angel Sierra Cruz](https://github.com/pana-miguel).
 
-#### Dex
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-squares&logo=arduino&logoColor=white)
-![NodeRED](https://img.shields.io/badge/NodeRED-d70a53?style=flat-square&logo=nodered&logoColor=white)
+#### Trout
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)]
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)]
 
-**[Dex](https://github.com/scrxsh/dex)** es un recopilatorio de proyectos que se han realizado para la placa Arduino Uno junto a NodeRED para la gestion de proyectos de IOT. 
-
+**[Trout](https://github.com/scrxsh/trouy)** es un proyecto con una proyección enorme, el cual estamos desarrollando activamente junto a [Miguel Angel Sierra Cruz](https://github.com/pana-miguel como parte del Semillero de Investigación SISLA en la UNISANGIl, sede Chiquinqurá.
 
